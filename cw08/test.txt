@@ -1,0 +1,126 @@
+1WATEK
+filtr0
+Czas startu: sekundy: 1526757704  nanosekundy 747149073  
+ Czas końca: sekundy: 1526757707  nanosekundy 615245898   
+  Roznica: sekundy: 3  nanosekundy -131903175 
+
+filtr1
+Czas startu: sekundy: 1526757707  nanosekundy 653611386  
+ Czas końca: sekundy: 1526757710  nanosekundy 515538155   
+  Roznica: sekundy: 3  nanosekundy -138073231 
+
+filtr2
+Czas startu: sekundy: 1526757710  nanosekundy 556066550  
+ Czas końca: sekundy: 1526757713  nanosekundy 429415830   
+  Roznica: sekundy: 3  nanosekundy -126650720 
+
+filtr3
+Czas startu: sekundy: 1526757713  nanosekundy 473002528  
+ Czas końca: sekundy: 1526757716  nanosekundy 337261300   
+  Roznica: sekundy: 3  nanosekundy -135741228 
+
+2WATEK
+filtr0
+Czas startu: sekundy: 1526757716  nanosekundy 375761284  
+ Czas końca: sekundy: 1526757717  nanosekundy 957690197   
+  Roznica: sekundy: 1  nanosekundy 581928913 
+
+filtr1
+Czas startu: sekundy: 1526757717  nanosekundy 995913026  
+ Czas końca: sekundy: 1526757719  nanosekundy 596380043   
+  Roznica: sekundy: 2  nanosekundy -399532983 
+
+filtr2
+Czas startu: sekundy: 1526757719  nanosekundy 635363003  
+ Czas końca: sekundy: 1526757721  nanosekundy 283997662   
+  Roznica: sekundy: 2  nanosekundy -351365341 
+
+filtr3
+Czas startu: sekundy: 1526757721  nanosekundy 322802903  
+ Czas końca: sekundy: 1526757722  nanosekundy 917398562   
+  Roznica: sekundy: 1  nanosekundy 594595659 
+
+3WATEK
+filtr0
+Czas startu: sekundy: 1526757722  nanosekundy 955942327  
+ Czas końca: sekundy: 1526757724  nanosekundy 501450547   
+  Roznica: sekundy: 2  nanosekundy -454491780 
+
+filtr1
+Czas startu: sekundy: 1526757724  nanosekundy 541397555  
+ Czas końca: sekundy: 1526757726  nanosekundy 100013915   
+  Roznica: sekundy: 2  nanosekundy -441383640 
+
+filtr2
+Czas startu: sekundy: 1526757726  nanosekundy 139471926  
+ Czas końca: sekundy: 1526757727  nanosekundy 695974688   
+  Roznica: sekundy: 1  nanosekundy 556502762 
+
+filtr3
+Czas startu: sekundy: 1526757727  nanosekundy 736863570  
+ Czas końca: sekundy: 1526757729  nanosekundy 283148837   
+  Roznica: sekundy: 2  nanosekundy -453714733 
+
+4WATEK
+filtr0
+Czas startu: sekundy: 1526757729  nanosekundy 321613687  
+ Czas końca: sekundy: 1526757730  nanosekundy 801042647   
+  Roznica: sekundy: 1  nanosekundy 479428960 
+
+filtr1
+Czas startu: sekundy: 1526757730  nanosekundy 838477463  
+ Czas końca: sekundy: 1526757732  nanosekundy 317570480   
+  Roznica: sekundy: 2  nanosekundy -520906983 
+
+filtr2
+Czas startu: sekundy: 1526757732  nanosekundy 356688117  
+ Czas końca: sekundy: 1526757733  nanosekundy 836139634   
+  Roznica: sekundy: 1  nanosekundy 479451517 
+
+filtr3
+Czas startu: sekundy: 1526757733  nanosekundy 878545614  
+ Czas końca: sekundy: 1526757735  nanosekundy 358939527   
+  Roznica: sekundy: 2  nanosekundy -519606087 
+
+6WATEK
+filtr0
+Czas startu: sekundy: 1526757735  nanosekundy 397622595  
+ Czas końca: sekundy: 1526757736  nanosekundy 890287272   
+  Roznica: sekundy: 1  nanosekundy 492664677 
+
+filtr1
+Czas startu: sekundy: 1526757736  nanosekundy 927902744  
+ Czas końca: sekundy: 1526757738  nanosekundy 436889933   
+  Roznica: sekundy: 2  nanosekundy -491012811 
+
+filtr2
+Czas startu: sekundy: 1526757738  nanosekundy 476026605  
+ Czas końca: sekundy: 1526757739  nanosekundy 954166217   
+  Roznica: sekundy: 1  nanosekundy 478139612 
+
+filtr3
+Czas startu: sekundy: 1526757739  nanosekundy 993090326  
+ Czas końca: sekundy: 1526757741  nanosekundy 474650582   
+  Roznica: sekundy: 2  nanosekundy -518439744 
+
+8WATEK
+filtr0
+Czas startu: sekundy: 1526757741  nanosekundy 513018493  
+ Czas końca: sekundy: 1526757743  nanosekundy  42052532   
+  Roznica: sekundy: 2  nanosekundy -470965961 
+
+filtr1
+Czas startu: sekundy: 1526757743  nanosekundy  87405413  
+ Czas końca: sekundy: 1526757744  nanosekundy 864960867   
+  Roznica: sekundy: 1  nanosekundy 777555454 
+
+filtr2
+Czas startu: sekundy: 1526757744  nanosekundy 909314057  
+ Czas końca: sekundy: 1526757746  nanosekundy 657440863   
+  Roznica: sekundy: 2  nanosekundy -251873194 
+
+filtr3
+Czas startu: sekundy: 1526757746  nanosekundy 702568224  
+ Czas końca: sekundy: 1526757748  nanosekundy 452416779   
+  Roznica: sekundy: 2  nanosekundy -250151445 
+

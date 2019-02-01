@@ -1,0 +1,2 @@
+gcc -Wall zes91.c -o out2 -lm -pthread
+./out2 /home/fudalinm/Desktop/read.txt
