@@ -1,0 +1,104 @@
+# kompilacja zrodla
+gcc -Wall -w -c lib.c -o lib.o
+# zbuduj biblioteke statyczna .a
+ar rcs liblib.a lib.o
+# linkowanie
+gcc -Wall -w -static main.c -L. -llib -o zad3_static	
+# zbuduj biblioteke wspoldzielona .so
+gcc -Wall -w -fPIC -c lib.c -o lib.o
+gcc -Wall -w -fPIC -shared -o liblib.so lib.o
+# linkowanie
+gcc -Wall -w -Wl,-rpath=. -L. -o zad3_shared main.c -llib
+rm -f *.o
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 0, numbers of operations 7000
+Czas rzeczywisty: 26503492.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 1, numbers of operations 7000
+Czas rzeczywisty: 26044192.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 2, numbers of operations 7000
+Czas rzeczywisty: 20731283.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 0, numbers of operations 7000
+Czas rzeczywisty: 20674596.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 1, numbers of operations 7000
+Czas rzeczywisty: 25318213.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 2, numbers of operations 7000
+Czas rzeczywisty: 23818750.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 60000, blocksize 1200, wayOfAllock: 1, operations set: 0, numbers of operations 15000
+Czas rzeczywisty: 48226011.000000 
+Czas użytkownika: 4 
+Czas procesora: 0 
+
+wywołanie: size 60000, blocksize 1200, wayOfAllock: 1, operations set: 1, numbers of operations 15000
+Czas rzeczywisty: 206923869.000000 
+Czas użytkownika: 20 
+Czas procesora: 0 
+
+# kompilacja zrodla
+gcc -Wall -w -c lib.c -o lib.o
+# zbuduj biblioteke statyczna .a
+ar rcs liblib.a lib.o
+# linkowanie
+gcc -Wall -w -static main.c -L. -llib -o zad3_static	
+# zbuduj biblioteke wspoldzielona .so
+gcc -Wall -w -fPIC -c lib.c -o lib.o
+gcc -Wall -w -fPIC -shared -o liblib.so lib.o
+# linkowanie
+gcc -Wall -w -Wl,-rpath=. -L. -o zad3_shared main.c -llib
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 0, numbers of operations 7000
+Czas rzeczywisty: 20946127.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 1, numbers of operations 7000
+Czas rzeczywisty: 24048201.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 2, numbers of operations 7000
+Czas rzeczywisty: 25944163.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 0, numbers of operations 7000
+Czas rzeczywisty: 20830292.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 1, numbers of operations 7000
+Czas rzeczywisty: 23674833.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 1000, blocksize 1500, wayOfAllock: 1, operations set: 2, numbers of operations 7000
+Czas rzeczywisty: 20115322.000000 
+Czas użytkownika: 2 
+Czas procesora: 0 
+
+wywołanie: size 60000, blocksize 1200, wayOfAllock: 1, operations set: 0, numbers of operations 15000
+Czas rzeczywisty: 53472372.000000 
+Czas użytkownika: 5 
+Czas procesora: 0 
+
+wywołanie: size 60000, blocksize 1200, wayOfAllock: 1, operations set: 1, numbers of operations 15000
+Czas rzeczywisty: 206765299.000000 
+Czas użytkownika: 19 
+Czas procesora: 0 
+
+rm -f *.o

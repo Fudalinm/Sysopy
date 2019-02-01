@@ -1,0 +1,12 @@
+wywołanie: bloków 100, blocksize 4, operations: s2Czas użytkownika: 0 
+Czas procesora: 0 
+
+wywołanie: bloków 500, blocksize 512, operations: s2Czas użytkownika: 1 
+Czas procesora: 3 
+
+wywołanie: bloków 900, blocksize 4096, operations: s2Czas użytkownika: 14 
+Czas procesora: 27 
+
+wywołanie: bloków 700, blocksize 8192, operations: s2Czas użytkownika: 11 
+Czas procesora: 33 
+

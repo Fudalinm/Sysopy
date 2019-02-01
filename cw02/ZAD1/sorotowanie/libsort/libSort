@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+		./Zad1 s1 hue1.txt 100 4
+		./Zad1 s1 hue2.txt 500 512
+		./Zad1 s1 hue3.txt 900 4096
+		./Zad1 s1 hue4.txt 700 8192

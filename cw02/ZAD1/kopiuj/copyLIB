@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+		./Zad1 c1 hue1.txt c1hue1.txt 1000000 4
+		./Zad1 c1 hue2.txt c1hue2.txt 500000 512
+		./Zad1 c1 hue3.txt c1hue3.txt 90000 4096
+		./Zad1 c1 hue4.txt c1hue4.txt 70000 8192
+
+		./Zad1 c2 hue1.txt c2hue1.txt 1000000 4
+		./Zad1 c2 hue2.txt c2hue2.txt 500000 512
+		./Zad1 c2 hue3.txt c2hue3.txt 90000 4096
+		./Zad1 c2 hue4.txt c2hue4.txt 70000 8192
+		
+		
+				

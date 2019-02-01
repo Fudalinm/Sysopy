@@ -1,0 +1,9 @@
+  ls   -al
+ echo   xD
+ps -al
+touch xDDDD5
+mkdir xDDD4
+chmod 777 xDDDD5
+ls -al
+
+

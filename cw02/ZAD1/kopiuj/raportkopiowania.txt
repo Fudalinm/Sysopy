@@ -1,0 +1,24 @@
+wywołanie: bloków 1000000, blocksize 4, operations: c1Czas użytkownika: 20 
+Czas procesora: 138 
+
+wywołanie: bloków 500000, blocksize 512, operations: c1Czas użytkownika: 7 
+Czas procesora: 87 
+
+wywołanie: bloków 90000, blocksize 4096, operations: c1Czas użytkownika: 2 
+Czas procesora: 40 
+
+wywołanie: bloków 70000, blocksize 8192, operations: c1Czas użytkownika: 0 
+Czas procesora: 34 
+
+wywołanie: bloków 1000000, blocksize 4, operations: c2Czas użytkownika: 1 
+Czas procesora: 2 
+
+wywołanie: bloków 500000, blocksize 512, operations: c2Czas użytkownika: 4 
+Czas procesora: 26 
+
+wywołanie: bloków 90000, blocksize 4096, operations: c2Czas użytkownika: 6 
+Czas procesora: 36 
+
+wywołanie: bloków 70000, blocksize 8192, operations: c2Czas użytkownika: 5 
+Czas procesora: 35 
+

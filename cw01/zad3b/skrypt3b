@@ -1,0 +1,180 @@
+#!/bin/bash
+
+
+		make staticO1 
+		make sharedO1
+		
+		./zad3_static 1000 1500 0 0 7000
+		./zad3_static 1000 1500 1 0 7000
+		./zad3_static 1000 1500 0 1 7000
+		./zad3_static 1000 1500 1 1 7000
+		./zad3_static 1000 1500 0 2 7000
+		./zad3_static 1000 1500 1 2 7000
+		./zad3_shared 1000 1500 0 0 7000
+		./zad3_shared 1000 1500 1 0 7000
+		./zad3_shared 1000 1500 0 1 7000
+		./zad3_shared 1000 1500 1 1 7000
+		./zad3_shared 1000 1500 0 2 7000
+		./zad3_shared 1000 1500 1 2 7000
+
+		./zad3_shared 60000 1200 0 0 15000
+		./zad3_shared 60000 1200 1 0 15000
+		./zad3_shared 60000 1200 0 1 15000
+		./zad3_shared 60000 1200 1 1 15000
+		./zad3_shared 60000 1200 0 2 15000
+		./zad3_shared 60000 1200 1 2 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 2 15000
+		./zad3_static 60000 1200 1 2 15000
+		
+		
+		
+		make clean
+		
+		
+		
+		
+		
+		
+		
+		make staticO2
+		make sharedO2
+		
+		./zad3_static 1000 1500 0 0 7000
+		./zad3_static 1000 1500 1 0 7000
+		./zad3_static 1000 1500 0 1 7000
+		./zad3_static 1000 1500 1 1 7000
+		./zad3_static 1000 1500 0 2 7000
+		./zad3_static 1000 1500 1 2 7000
+		./zad3_shared 1000 1500 0 0 7000
+		./zad3_shared 1000 1500 1 0 7000
+		./zad3_shared 1000 1500 0 1 7000
+		./zad3_shared 1000 1500 1 1 7000
+		./zad3_shared 1000 1500 0 2 7000
+		./zad3_shared 1000 1500 1 2 7000
+
+		./zad3_shared 60000 1200 0 0 15000
+		./zad3_shared 60000 1200 1 0 15000
+		./zad3_shared 60000 1200 0 1 15000
+		./zad3_shared 60000 1200 1 1 15000
+		./zad3_shared 60000 1200 0 2 15000
+		./zad3_shared 60000 1200 1 2 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 2 15000
+		./zad3_static 60000 1200 1 2 15000
+		
+		
+		
+		make clean
+		
+		
+		
+		
+		make staticO3
+		make sharedO3
+		
+		./zad3_static 1000 1500 0 0 7000
+		./zad3_static 1000 1500 1 0 7000
+		./zad3_static 1000 1500 0 1 7000
+		./zad3_static 1000 1500 1 1 7000
+		./zad3_static 1000 1500 0 2 7000
+		./zad3_static 1000 1500 1 2 7000
+		./zad3_shared 1000 1500 0 0 7000
+		./zad3_shared 1000 1500 1 0 7000
+		./zad3_shared 1000 1500 0 1 7000
+		./zad3_shared 1000 1500 1 1 7000
+		./zad3_shared 1000 1500 0 2 7000
+		./zad3_shared 1000 1500 1 2 7000
+
+		./zad3_shared 60000 1200 0 0 15000
+		./zad3_shared 60000 1200 1 0 15000
+		./zad3_shared 60000 1200 0 1 15000
+		./zad3_shared 60000 1200 1 1 15000
+		./zad3_shared 60000 1200 0 2 15000
+		./zad3_shared 60000 1200 1 2 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 2 15000
+		./zad3_static 60000 1200 1 2 15000
+		
+		
+		
+		make clean
+		
+		
+		
+		
+		make staticOs
+		make sharedOs
+		
+		./zad3_static 1000 1500 0 0 7000
+		./zad3_static 1000 1500 1 0 7000
+		./zad3_static 1000 1500 0 1 7000
+		./zad3_static 1000 1500 1 1 7000
+		./zad3_static 1000 1500 0 2 7000
+		./zad3_static 1000 1500 1 2 7000
+		./zad3_shared 1000 1500 0 0 7000
+		./zad3_shared 1000 1500 1 0 7000
+		./zad3_shared 1000 1500 0 1 7000
+		./zad3_shared 1000 1500 1 1 7000
+		./zad3_shared 1000 1500 0 2 7000
+		./zad3_shared 1000 1500 1 2 7000
+
+		./zad3_shared 60000 1200 0 0 15000
+		./zad3_shared 60000 1200 1 0 15000
+		./zad3_shared 60000 1200 0 1 15000
+		./zad3_shared 60000 1200 1 1 15000
+		./zad3_shared 60000 1200 0 2 15000
+		./zad3_shared 60000 1200 1 2 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 2 15000
+		./zad3_static 60000 1200 1 2 15000
+		
+		
+		
+		make clean
+		
+				
+		make static
+		make shared
+		
+		./zad3_static 1000 1500 0 0 7000
+		./zad3_static 1000 1500 1 0 7000
+		./zad3_static 1000 1500 0 1 7000
+		./zad3_static 1000 1500 1 1 7000
+		./zad3_static 1000 1500 0 2 7000
+		./zad3_static 1000 1500 1 2 7000
+		./zad3_shared 1000 1500 0 0 7000
+		./zad3_shared 1000 1500 1 0 7000
+		./zad3_shared 1000 1500 0 1 7000
+		./zad3_shared 1000 1500 1 1 7000
+		./zad3_shared 1000 1500 0 2 7000
+		./zad3_shared 1000 1500 1 2 7000
+
+		./zad3_shared 60000 1200 0 0 15000
+		./zad3_shared 60000 1200 1 0 15000
+		./zad3_shared 60000 1200 0 1 15000
+		./zad3_shared 60000 1200 1 1 15000
+		./zad3_shared 60000 1200 0 2 15000
+		./zad3_shared 60000 1200 1 2 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 1 15000
+		./zad3_static 60000 1200 1 2 15000
+		./zad3_static 60000 1200 1 2 15000
+		
+		
+		
+		make clean
